@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=cK_wvACTGMw&list=PLD8nQCAhR3tT3ehpyOpoYeUj3KHDEV
 https://www.youtube.com/watch?v=oElRLPw0rdo&list=PLT9miexWCpPXNjH7XEn2DED_AjMF7-U1B
 
 
+https://developer.wordpress.org/apis/
+https://developer.wordpress.org/reference/classes/
 
 pvilla
 r3d5c7Bt2%jD0b7Kvp
