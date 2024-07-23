@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=oElRLPw0rdo&list=PLT9miexWCpPXNjH7XEn2DED_AjMF7-
 
 https://developer.wordpress.org/apis/
 https://developer.wordpress.org/reference/classes/
+https://developer.wordpress.org/plugins/hooks/
 
 pvilla
 r3d5c7Bt2%jD0b7Kvp
